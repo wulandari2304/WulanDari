@@ -1,0 +1,107 @@
+h3 {
+  font-weight: 800;
+  font-size: xx-large;
+}
+h2 {
+  font-weight: bolder;
+  font-size: 50px;
+}
+
+.Tentang-kami {
+  margin-right: 20px;
+}
+
+.nav-link {
+  font-weight: bold;
+  font-size: large;
+  margin-left: 60px;
+}
+.foto input {
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 100px;
+  border-radius: 10px;
+}
+.row {
+ 
+  width: 100%;
+  margin-bottom: 20px;
+}
+.o img {
+  width: 370px;
+  margin-left: 80px;
+}
+.row button {
+  border-radius: 100px;
+  width: 30%;
+  background-color: gray;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}
+.row button:hover {
+  border-radius: 30px;
+  background-color: rgb(130, 110, 110);
+}
+.row a {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}
+.p {
+}
+.p h1 {
+  text-align: center;
+}
+.gambar {
+  width: 100%;
+  border: 2px solid white;
+}
+.gambar p {
+  margin-top: 15px;
+  font-weight: bolder;
+
+  margin-left: 10px;
+}
+
+.gambar .p1 {
+  width: 30px;
+  height: 30px;
+  margin-top: 10px;
+}
+
+.gambar .p2 {
+  width: 30px;
+  height: 30px;
+  margin-left: 70px;
+  margin-top: 10px;
+}
+
+.p h6 {
+  font-weight: bold;
+  font-size: 15px;
+}
+.p img {
+  width: 300px;
+
+}
+.p p,
+li {
+  font-weight: bold;
+  font-size: 11px;
+}
+.a {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+}
+.a .b,
+.c,
+.d {
+  border: 2px solid black;
+  text-align: center;
+
+  width: 70px;
+}
